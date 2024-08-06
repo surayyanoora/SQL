@@ -1,0 +1,14 @@
+-- create database db8
+-- create table studenttable(stdid int,Name varchar(50),class int)
+-- insert into  studenttable values(101,'sarang',10)
+-- select * from studenttable
+-- insert into  studenttable(stdid,Name,class) values(102,'raju',11),(103,'das',12)
+-- select * from studenttable
+-- insert into  studenttable(stdid,Name,class) values(102,'aju',15),(103,'noora',17)
+-- select * from studenttable
+-- select * from studenttable where class=10
+-- select * from studenttable where class>10
+-- create table employe(Empid int,Name varchar(50),Job varchar(50), salary int)
+-- insert into employe(Empid,Name,Job,salary) values(101,'Raju','Engg',10000),(102,'jia','doctor',20000),(103,'abi','acct',5000)
+-- select * from employe
+UPDATE employe SET salary

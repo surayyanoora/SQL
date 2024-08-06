@@ -1,0 +1,7 @@
+-- create database db9
+-- create table customer(cusid int,Name varchar(30),City varchar(30),Country varchar(50))
+-- insert into customer(cusid,Name,City,Country) values(10,'John','Berlin','Germany'),(22,'Adam','Paris','France'),(32,'jia','kerala','India'),(43,'Chian','Beijing','China')
+-- select * from customer
+-- select City from customer 
+-- select * from customer where City='Berlin'
+-- select * from customer where cusid=32
